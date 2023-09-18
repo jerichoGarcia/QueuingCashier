@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queuing Cashier", "Queuing Cashier\Queuing Cashier.csproj", "{312DEE47-7ACE-427E-996A-657614DA50AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{312DEE47-7ACE-427E-996A-657614DA50AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312DEE47-7ACE-427E-996A-657614DA50AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312DEE47-7ACE-427E-996A-657614DA50AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312DEE47-7ACE-427E-996A-657614DA50AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADB0CB0-2456-48D2-97A0-A2E5ACED7033}
+	EndGlobalSection
+EndGlobal

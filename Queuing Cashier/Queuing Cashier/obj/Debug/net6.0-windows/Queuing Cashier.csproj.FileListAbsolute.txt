@@ -1,0 +1,18 @@
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.csproj.AssemblyReference.cache
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing_Cashier.CashierWindowQueueForm.resources
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing_Cashier.frmQueuingForm.resources
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.csproj.GenerateResource.cache
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.AssemblyInfoInputs.cache
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.AssemblyInfo.cs
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.csproj.CoreCompileInputs.cache
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\bin\Debug\net6.0-windows\Queuing Cashier.exe
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\bin\Debug\net6.0-windows\Queuing Cashier.deps.json
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\bin\Debug\net6.0-windows\Queuing Cashier.runtimeconfig.json
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\bin\Debug\net6.0-windows\Queuing Cashier.dll
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\bin\Debug\net6.0-windows\Queuing Cashier.pdb
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.dll
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\refint\Queuing Cashier.dll
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.pdb
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\Queuing Cashier.genruntimeconfig.cache
+C:\Users\garcia.261126\source\repos\Queuing Cashier\Queuing Cashier\obj\Debug\net6.0-windows\ref\Queuing Cashier.dll
